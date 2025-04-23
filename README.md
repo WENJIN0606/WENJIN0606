@@ -8,12 +8,10 @@
 
 📫 Reach me at: lengyunfan@gmail.com
 
-🛠️ My skills
-
 <table border="0" cellpadding="0" cellspacing="10"> <!-- cellspacing 控制两列间距 -->
   <tr>
     <td width="65%" valign="top"> <!-- 左栏：技能徽章，宽度约65%，顶部对齐 -->
-      <p><strong> Technologies I Use:</strong></p>
+      <p><strong> My skills:</strong></p>
       <!-- 这里放你的 Shields.io 徽章 -->
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
