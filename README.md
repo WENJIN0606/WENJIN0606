@@ -1,5 +1,12 @@
-## Hi there 👋
+## 👋 Hi there, I'm Wenjin!
 
+🎓 Computer Science student at Dalian University of Technology
+
+🔬 Passionate about Time-Series Forecasting and Machine Learning
+
+✈️ Enthusiast of metro systems, airports, and aircraft
+
+📫 Reach me at: lengyunfan@gmail.com
 <!--
 **WENJIN0606/WENJIN0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
