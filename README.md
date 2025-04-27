@@ -6,7 +6,7 @@
 
 ✈️ Enthusiast of metro systems, airports, and aircraft
 
-📫 Reach me at: lengyunfan@gmail.com
+📫 Reach me at: lengyunfan@gmail.com or nuagesir@mail.dlut.edu.cn
 
 <table border="0" cellpadding="0" cellspacing="10"> <!-- cellspacing 控制两列间距 -->
   <tr>
